@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1570bc40.css",
+    "main.js": "/static/js/main.fb1f60cc.js",
+    "static/media/twitter-logo.svg": "/static/media/twitter-logo.a8a752547c2913d8bc15e5df109748a6.svg",
+    "static/media/polygonlogo.png": "/static/media/polygonlogo.6cde40a9b9119621eb2b.png",
+    "index.html": "/index.html",
+    "main.1570bc40.css.map": "/static/css/main.1570bc40.css.map",
+    "main.fb1f60cc.js.map": "/static/js/main.fb1f60cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1570bc40.css",
+    "static/js/main.fb1f60cc.js"
+  ]
+}
